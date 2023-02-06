@@ -22,7 +22,6 @@
 
 > # To Improve
 
-* **Make the code looks cleaner.**
 * **Make the UI cleaner.**
 
 <br/>
