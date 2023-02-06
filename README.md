@@ -25,8 +25,8 @@
 
 > # To-Do
 
-* ***Place your token in config/config.env***
-* ***Add the text you want to dsisplay in config/informations.json at the right status mode.***
+* **Place your token in config/config.env**
+* **Add the text you want to dsisplay in config/informations.json at the right status mode.**
 * **You can get your token by pasting the code below in your browser. It will add it to your clipboard automatically.**
 
 ```js
