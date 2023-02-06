@@ -1,0 +1,27 @@
+{
+  "streaming": {
+    "name": "Coding in a treehouse",
+    "url": "https://www.twitch.tv/extraemily"
+  },
+  "competing": {
+    "status": "dnd",
+    "name": "Coding Tournament"
+  },
+  "watching": {
+    "status": "dnd",
+    "name": "Cozy Winter Getaways"
+  },
+  "listening": {
+    "status": "dnd",
+    "name": "Lofi Hip Hop",
+    "url": "https://www.youtube.com/watch?v=jfKfPfyJRdk"
+  },
+  "playing": {
+    "status": "dnd",
+    "name": "zzz"
+  },
+  "custom": {
+    "status": "dnd",
+    "name": "Drinking Coffee 🤎"
+  }
+}
